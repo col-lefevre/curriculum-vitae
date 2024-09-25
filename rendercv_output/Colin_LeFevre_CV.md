@@ -1,52 +1,41 @@
 # Colin LeFevre's CV
 
-- Phone: +90 541 999 99 99
-- Email: [youremail@yourdomain.com](mailto:youremail@yourdomain.com)
-- Location: Your Location
-- Website: [yourwebsite.com](https://yourwebsite.com/)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [lefevrec@uci.edu](mailto:lefevrec@uci.edu)
+- Website: [colinlefevre.me](https://colinlefevre.me/)
+- LinkedIn: [colin-lefevre](https://linkedin.com/in/colin-lefevre)
 
 
-# Welcome to RenderCV!
-
-[RenderCV](https://github.com/sinaatalay/rendercv) is a LaTeX-based CV/resume framework. It allows you to create a high-quality CV or resume as a PDF file from a YAML file, with **full Markdown syntax support** and **complete control over the LaTeX code**.
-
-The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
-
-# Quick Guide
-
-- Each section title is arbitrary and each section contains a list of entries.
-- There are 7 unique entry types: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Select a section title, pick an entry type, and start writing your section!
-- [Here](https://docs.rendercv.com/user_guide/), you can find a comprehensive user guide for RenderCV.
 # Education
 
-## University of Pennsylvania, BS in Computer Science
+## University of California, Irvine, Ph.D. in Informatics
 
-- Sept 2000 – May 2005
-- GPA: 3.9/4.0 ([a link to somewhere](https://example.com))
-- **Coursework:** Computer Architecture, Comparison of Learning Algorithms, Computational Theory
+- Sept 2024 – present
+- Advisor: Madhu Reddy, Ph.D.
+
+## Indiana University, B.S. in Informatics with Highest Distinction
+
+- Aug 2020 – Dec 2023
+- Research Advisor: Christina Chung, Ph.D.
+- Senior Thesis: Examining the Role of Reflective Technology within Bereavement and Meaning-Making
+- Minors: Human-Centered Computing, English
+- GPA: 4.0
 
 # Experience
 
-## Apple, Software Engineer
+## Proactive Health Informatics Research Group, Research Assistant
 
-- June 2005 – Aug 2007
-- Cupertino, CA
-- Reduced time to render user buddy lists by 75% by implementing a prediction algorithm
-- Integrated iChat with Spotlight Search by creating a tool to extract metadata from saved chat transcripts and provide metadata to a system-wide search database
-- Redesigned chat file format and implemented backward compatibility for search
+- Aug 2021 – Aug 2024
+- Indiana University
 
-## Microsoft, Software Engineer Intern
+## Proactive Health Informatics REU Site, Research Intern
 
-- June 2003 – Aug 2003
-- Redmond, WA
-- Designed a UI for the VS open file switcher (Ctrl-Tab) and extended it to tool windows
-- Created a service to provide gradient across VS and VS add-ins, optimizing its performance via caching
-- Built an app to compute the similarity of all methods in a codebase, reducing the time from $\mathcal{O}(n^2)$ to $\mathcal{O}(n \log n)$
-- Created a test case generation tool that creates random XML docs from XML Schema
-- Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
+- May 2021 – July 2021
+- Indiana University
+
+## Undergraduate Research Opportunities in Computing, Research Assistant
+
+- Jan 2021 – May 2024
+- Indiana University
 
 # Publications
 
