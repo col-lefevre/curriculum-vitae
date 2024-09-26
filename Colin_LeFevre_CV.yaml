@@ -21,10 +21,10 @@ cv:
               end_date: 2023-12
               highlights:
                   - "Research Advisor: Christina Chung, Ph.D."
-                  - "Senior Thesis: Examining the Role of Reflective Technology within Bereavement and Meaning-Making"
+                  - "Senior Thesis: *Examining the Role of Reflective Technology within Bereavement and Meaning-Making*"
                   - "Minors: Human-Centered Computing, English"
                   - "GPA: 4.0"
-        experience:
+        research_experience:
             - company: Proactive Health Informatics Research Group
               position: Research Assistant
               location: Indiana University
@@ -40,41 +40,54 @@ cv:
               location: Indiana University
               start_date: 2021-01
               end_date: 2024-05
-        publications:
-            - title: 3D Finite Element Analysis of No-Insulation Coils
+        refereed_conference_papers:
+            - title: "New Understandings of Loss: Examining the Role of Reflective Technology Within Bereavement and Meaning-Making"
               authors:
-                  - Frodo Baggins
-                  - "***John Doe***"
-                  - Samwise Gamgee
-              doi: 10.1109/TASC.2023.3340648
-              date: 2004-01
-        projects:
-            - name: Multi-User Drawing Tool
-              date: "[github.com/name/repo](https://github.com/sinaatalay/rendercv)"
-              highlights:
-                  - Developed an electronic classroom where multiple users
-                    can simultaneously view and draw on a "chalkboard"
-                    with each person's edits synchronized
-                  - "Tools Used: C++, MFC"
-            - name: Synchronized Desktop Calendar
-              date: "[github.com/name/repo](https://github.com/sinaatalay/rendercv)"
-              highlights:
-                  - Developed a desktop calendar with globally shared
-                    and synchronized calendars, allowing users to schedule
-                    meetings with other users
-                  - "Tools Used: C#, .NET, SQL, XML"
-            - name: Custom Operating System
-              date: 2002
-              highlights:
-                  - Built a UNIX-style OS with a scheduler, file system,
-                    text editor, and calculator
-                  - "Tools Used: C"
-        technologies:
-            - label: Languages
-              details: C++, C, Java, Objective-C, C#, SQL, JavaScript
-            - label: Technologies
-              details: .NET, Microsoft SQL Server, XCode, Interface
-                  Builder
+                  - "*Colin LeFevre*"
+                  - Chia-Fang Chung
+              journal: "Conference on Human Factors in Computing Systems (CHI) | Acceptance Rate: 26.4%"
+              date: 2024
+        refereed_journal_articles:
+            - title: "Records, trust, and misinformation: Using birtherism to understand the influence of conspiracy theories on human information interactions"
+              authors:
+                  - Devan Ray Donaldson
+                  - "*Colin LeFevre*"
+              journal: "Journal of the Association for Information Science and Technology (JASIST)"
+              date: 2022
+        refereed_conference_posters:
+            - title: '"I Don’t Need a Megaphone to Be Helpful": Probing the Role of Technology in Pro-Choice Abortion Activism'
+              authors:
+                  - "*Colin LeFevre*"
+                  - Aswati Panicker
+                  - Sitha Vallabhaneni
+                  - Nikhil Dinesh
+                  - Forum Modi
+                  - Katie Siek
+                  - Chia-Fang Chung
+              journal: "Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)"
+              date: 2023
+            - title: "Cooking Stories: Connecting Remote Families Through the Sharing of Cooking Experiences"
+              authors:
+                  - Forum Modi
+                  - "*Colin LeFevre*"
+                  - Nikhil Dinesh
+                  - Aswati Panicker
+                  - Chia-Fang Chung
+              journal: "European Conference on Computer-Supported Cooperative Work (ECSCW)"
+              date: 2022
+        lightly_reviewed_works:
+            - title: '"A Safe Space to Think About Grief": Reflecting on Bereavement Through Video Games and Experiential Metaphor'
+              authors:
+                  - "*Colin LeFevre*"
+                  - Chia-Fang Chung
+              journal: "Workgroup on Interactive Systems in Healthcare (WISH) Symposium, Conference on Human Factors in Computing Systems (CHI)"
+              date: 2023
+        # technologies:
+        #     - label: Languages
+        #       details: C++, C, Java, Objective-C, C#, SQL, JavaScript
+        #     - label: Technologies
+        #       details: .NET, Microsoft SQL Server, XCode, Interface
+        #           Builder
 design:
     theme: engineeringresumes
     font: Charter

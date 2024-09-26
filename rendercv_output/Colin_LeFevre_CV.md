@@ -16,11 +16,11 @@
 
 - Aug 2020 – Dec 2023
 - Research Advisor: Christina Chung, Ph.D.
-- Senior Thesis: Examining the Role of Reflective Technology within Bereavement and Meaning-Making
+- Senior Thesis: *Examining the Role of Reflective Technology within Bereavement and Meaning-Making*
 - Minors: Human-Centered Computing, English
 - GPA: 4.0
 
-# Experience
+# Research Experience
 
 ## Proactive Health Informatics Research Group, Research Assistant
 
@@ -37,33 +37,36 @@
 - Jan 2021 – May 2024
 - Indiana University
 
-# Publications
+# Refereed Conference Papers
 
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
+## New Understandings of Loss: Examining the Role of Reflective Technology Within Bereavement and Meaning-Making 
+- 2024
+- *Colin LeFevre*, Chia-Fang Chung
+- Conference on Human Factors in Computing Systems (CHI) | Acceptance Rate: 26.4%
 
-# Projects
+# Refereed Journal Articles
 
-## Multi-User Drawing Tool
+## Records, trust, and misinformation: Using birtherism to understand the influence of conspiracy theories on human information interactions 
+- 2022
+- Devan Ray Donaldson, *Colin LeFevre*
+- Journal of the Association for Information Science and Technology (JASIST)
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed an electronic classroom where multiple users can simultaneously view and draw on a "chalkboard" with each person's edits synchronized
-- Tools Used: C++, MFC
+# Refereed Conference Posters
 
-## Synchronized Desktop Calendar
+## "I Don’t Need a Megaphone to Be Helpful": Probing the Role of Technology in Pro-Choice Abortion Activism 
+- 2023
+- *Colin LeFevre*, Aswati Panicker, Sitha Vallabhaneni, Nikhil Dinesh, Forum Modi, Katie Siek, Chia-Fang Chung
+- Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
 
-- [github.com/name/repo](https://github.com/sinaatalay/rendercv)
-- Developed a desktop calendar with globally shared and synchronized calendars, allowing users to schedule meetings with other users
-- Tools Used: C#, .NET, SQL, XML
+## Cooking Stories: Connecting Remote Families Through the Sharing of Cooking Experiences 
+- 2022
+- Forum Modi, *Colin LeFevre*, Nikhil Dinesh, Aswati Panicker, Chia-Fang Chung
+- European Conference on Computer-Supported Cooperative Work (ECSCW)
 
-## Custom Operating System
+# Lightly Reviewed Works
 
-- 2002
-- Built a UNIX-style OS with a scheduler, file system, text editor, and calculator
-- Tools Used: C
+## "A Safe Space to Think About Grief": Reflecting on Bereavement Through Video Games and Experiential Metaphor 
+- 2023
+- *Colin LeFevre*, Chia-Fang Chung
+- Workgroup on Interactive Systems in Healthcare (WISH) Symposium, Conference on Human Factors in Computing Systems (CHI)
 
-# Technologies
-
-- Languages: C++, C, Java, Objective-C, C#, SQL, JavaScript
-- Technologies: .NET, Microsoft SQL Server, XCode, Interface Builder
