@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  26 SEP 2024 11:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  31 OCT 2024 17:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -702,7 +702,7 @@ m-mathsy.enc}{c:/Users/colin/AppData/Local/Programs/Python/Python312/Lib/site-p
 ackages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fo
 ntawesome5/fa5free2.enc}{c:/Users/colin/AppData/Local/Programs/Python/Python312
 /Lib/site-packages/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/e
-nc/dvips/fontawesome5/fa5brands0.enc}]
+nc/dvips/fontawesome5/fa5brands0.enc}] [2]
 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Colin_LeFevre_CV.aux)
@@ -712,13 +712,13 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15113 strings out of 476002
- 275563 string characters out of 5788363
- 1953496 words of memory out of 5000000
- 37026 multiletter control sequences out of 15000+600000
+ 15120 strings out of 476002
+ 275614 string characters out of 5788363
+ 1954496 words of memory out of 5000000
+ 37029 multiletter control sequences out of 15000+600000
  599270 words of font info for 70 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,457b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,411b,692s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/colin/AppData/Local/Programs/Python/Python312/Lib/site-packages/ren
 dercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fontawesom
 e5/FontAwesome5Brands-Regular.pfb><c:/Users/colin/AppData/Local/Programs/Python
@@ -737,10 +737,10 @@ fonts/type1/bitstrea/charter/bchri8a.pfb><c:/Users/colin/AppData/Local/Programs
 exmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/Users/colin/AppData/Local/Progra
 ms/Python/Python312/Lib/site-packages/rendercv/renderer/tinytex-release/TinyTeX
 /texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
-Output written on Colin_LeFevre_CV.pdf (1 page, 84275 bytes).
+Output written on Colin_LeFevre_CV.pdf (2 pages, 88828 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
