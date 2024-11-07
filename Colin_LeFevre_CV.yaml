@@ -25,14 +25,14 @@ cv:
                   - "Minors: Human-Centered Computing, English"
                   - "GPA: 4.0"
         conference_publications:
-            - title: '"Don’t give up, INSIST": Support Exchanges and Self-Advocacy in Online Health Communities for Pelvic Organ Prolapse'
-              authors:
-                  - "*Colin LeFevre*"
-                  - Mary Davids
-                  - Lily C. Witte
-                  - Katie A. Siek
-              journal: "Under review at CHI 2025"
-              date: 2025
+            # - title: '"Don’t give up, INSIST": Support Exchanges and Self-Advocacy in Online Health Communities for Pelvic Organ Prolapse'
+            #   authors:
+            #       - "*Colin LeFevre*"
+            #       - Mary Davids
+            #       - Lily C. Witte
+            #       - Katie A. Siek
+            #   journal: "Under review at CHI 2025"
+            #   date: 2025
             - title: "New Understandings of Loss: Examining the Role of Reflective Technology Within Bereavement and Meaning-Making"
               authors:
                   - "*Colin LeFevre*"
